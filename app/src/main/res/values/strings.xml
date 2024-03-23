@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TUGASDAY05</string>
+    <string name="Name">Name</string>
+    <string name="pilihMembership">Choice Membership</string>
+    <string name="Diamond">Diamond</string>
+    <string name="Gold">Gold</string>
+    <string name="Biasa">Reguler</string>
+    <string name="kodeBarang">Code Item</string>
+    <string name="jumlahBarang">Total Item</string>
+    <string name="Proses">Proces</string>
+    <string name="Halo">Hello </string>
+    <string name="Transaksi">Transaction In Proses</string>
+    <string name="namaBarang">Item Name</string>
+    <string name="Harga">Price </string>
+    <string name="totalHarga">Total Price</string>
+    <string name="diskonHarga">Discount Price</string>
+    <string name="diskonMember">Discount Membership</string>
+    <string name="jumlahBayar">Total Pay</string>
+    <string name="Terimakasih">Thanks You Has Buying In Here!</string>
+    <string name="share">Share</string>
+
+</resources>

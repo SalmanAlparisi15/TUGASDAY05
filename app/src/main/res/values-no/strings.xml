@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUGASDAY05</string>
+    <string name="Name">Navn</string>
+    <string name="pilihMembership">Velg Medlemskap</string>
+    <string name="Diamond">Diamant</string>
+    <string name="Gold">Gull</string>
+    <string name="Biasa">Normal</string>
+    <string name="kodeBarang">Produkt Kode</string>
+    <string name="jumlahBarang">Mengden Varer</string>
+    <string name="Proses">Prosess</string>
+    <string name="Halo">Hei</string>
+    <string name="Transaksi">Transaksjonen Behandles</string>
+    <string name="namaBarang">Elementnavn</string>
+    <string name="Harga">Pris</string>
+    <string name="totalHarga">Total Pris</string>
+    <string name="diskonHarga">Pris Rabatt</string>
+    <string name="diskonMember">Medlemskap Rabatt</string>
+    <string name="jumlahBayar">Total Lønn</string>
+    <string name="Terimakasih">Takk Skal Du Ha</string>
+    <string name="share">Dele</string>
+</resources>

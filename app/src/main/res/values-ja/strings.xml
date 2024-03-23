@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUGASDAY05</string>
+    <string name="Name">" 名前"</string>
+    <string name="pilihMembership">メンバーシップの選択</string>
+    <string name="Diamond">ダイヤモンド</string>
+    <string name="Gold">金</string>
+    <string name="Biasa">普通</string>
+    <string name="kodeBarang">"アイテムコード "</string>
+    <string name="jumlahBarang">"商品の量 "</string>
+    <string name="Proses">"プロセス "</string>
+    <string name="Halo">こんにちは</string>
+    <string name="Transaksi">トランザクションは処理中です</string>
+    <string name="namaBarang">アイテム名</string>
+    <string name="Harga">価格</string>
+    <string name="totalHarga">合計金額</string>
+    <string name="diskonHarga">割引価格</string>
+    <string name="diskonMember">会員割引</string>
+    <string name="jumlahBayar">支払金額</string>
+    <string name="Terimakasih">ここでお買い物していただきありがとうございます</string>
+    <string name="share">共有</string>
+</resources>
